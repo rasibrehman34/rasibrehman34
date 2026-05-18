@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Full-Stack Developer | DevOps Engineer
 
-Hey there! I'm **Rasib Rehman** — a passionate developer who bridges the gap between **development** and **operations**. 
+Hey there! I'm **Rasib Rehman** — a passionate developer who bridges the gap between **development** and **operations**.
 
 🎯 **What drives me?** Building robust, scalable applications from the first line of code to production deployment. I specialize in the **MERN Stack** and have expanded my expertise into the **DevOps ecosystem** to deliver end-to-end solutions.
 
